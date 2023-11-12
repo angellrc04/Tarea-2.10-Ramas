@@ -102,6 +102,11 @@
                     presidente: "Jose luis",
                     delanteros: "Pedro Ramirez",
                 },
+                "Cadiz FC": {
+                    escudo: "./imagenes/Cadiz.png",
+                    presidente: "Pedro Benito",
+                    delanteros: "Antonio Jimenez",
+                },
             };
 
             const equipo = event.currentTarget;
