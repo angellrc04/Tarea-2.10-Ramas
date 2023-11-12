@@ -107,6 +107,11 @@
                     presidente: "Ruben Martinez",
                     delanteros: "Juan Rodriguez",
                 },
+                "Cadiz FC": {
+                    escudo: "./imagenes/Cadiz.png",
+                    presidente: "Pedro Benito",
+                    delanteros: "Antonio Jimenez",
+                },
             };
 
             const equipo = event.currentTarget;
