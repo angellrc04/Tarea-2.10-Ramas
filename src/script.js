@@ -102,6 +102,11 @@
                     presidente: "Jose luis",
                     delanteros: "Pedro Ramirez",
                 },
+                "Osasuna FC": {
+                    escudo: "./imagenes/Osasuna.png",
+                    presidente: "Ruben Martinez",
+                    delanteros: "Juan Rodriguez",
+                },
             };
 
             const equipo = event.currentTarget;
