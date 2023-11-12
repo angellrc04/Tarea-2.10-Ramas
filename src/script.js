@@ -112,6 +112,11 @@
                     presidente: "Pedro Benito",
                     delanteros: "Antonio Jimenez",
                 },
+                "Girona": {
+                    escudo: "./imagenes/girona.png",
+                    presidente: "Sergio Perez",
+                    delanteros: "Manuel Jordan",
+                },
             };
 
             const equipo = event.currentTarget;
