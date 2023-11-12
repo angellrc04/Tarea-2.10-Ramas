@@ -102,6 +102,11 @@
                     presidente: "Jose luis",
                     delanteros: "Pedro Ramirez",
                 },
+                "Girona": {
+                    escudo: "./imagenes/girona.png",
+                    presidente: "Sergio Perez",
+                    delanteros: "Manuel Jordan",
+                },
             };
 
             const equipo = event.currentTarget;
